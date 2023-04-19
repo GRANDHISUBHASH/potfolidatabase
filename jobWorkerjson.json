@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6440270720489ff5a696ee46"
+  },
+  "name": "amrit",
+  "rollno": 52,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402c4920489ff5a696ee47"
+  },
+  "name": "ram",
+  "rollno": 53,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402c6b20489ff5a696ee48"
+  },
+  "name": "ranjan",
+  "rollno": 54,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402c7f20489ff5a696ee49"
+  },
+  "name": "durga",
+  "rollno": 55,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402ca320489ff5a696ee4a"
+  },
+  "name": "latha",
+  "rollno": 56,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402cb620489ff5a696ee4b"
+  },
+  "name": "ravi",
+  "rollno": 57,
+  "jobrool": "fullStck"
+},{
+  "_id": {
+    "$oid": "64402cdc20489ff5a696ee4c"
+  },
+  "name": "akash",
+  "rollno": 58,
+  "jobrool": "fullStck"
+}]
